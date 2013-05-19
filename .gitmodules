@@ -1,0 +1,3 @@
+[submodule "Vendor/oauth-php"]
+	path = Vendor/oauth-php
+	url = git://github.com/quizlet/oauth2-php.git
